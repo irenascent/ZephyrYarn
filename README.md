@@ -1,4 +1,3 @@
-
 ZephyrYarn is a scalable, distributed data processing engine that automates real-time cluster scaling and concurrent data ingestion.
 
 With ZephyrYarn, you get a lightweight tool that stays out of your way.
